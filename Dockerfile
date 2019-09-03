@@ -1,5 +1,5 @@
 #test comment for webhook - testing deployment
-#test new deployment - R U rdy for test?
+#test new deployment - R U rdy for test? Again?
 FROM golang:alpine
 WORKDIR /go/src/github.com/mchmarny/simple-app/
 COPY . .
